@@ -1,6 +1,10 @@
+package Desktop.SI_2024_lab1_213054;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+
 
 public class SILab1Main {
     public static void main(String[] args) {
