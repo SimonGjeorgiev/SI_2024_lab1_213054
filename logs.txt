@@ -1,0 +1,74 @@
+Previous Git Logs
+commit 7f0894595ca5f28bd9d95798c6a9242120829887
+Merge: 248013d d336f7a
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Wed Apr 3 01:47:41 2024 +0200
+
+    resolve conflict
+
+commit 248013d29e1637c60b0fa6f9dac15ed9ff2abdfd
+Merge: c2ea88f c01fb4e
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Wed Apr 3 01:28:26 2024 +0200
+
+    Merge branch 'bug1'
+
+commit d336f7ac44681c6febd3204434d180a1ebb634f1
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Wed Apr 3 01:26:21 2024 +0200
+
+    Call method makeBigStringFrom
+
+commit c01fb4e46c006e3314291a9cef2f19d19423ef85
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Wed Apr 3 01:22:25 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit a750e917be65db22f2fb10255d22efea9d991a7a
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Wed Apr 3 01:20:02 2024 +0200
+
+    changee
+
+commit e6026dba6eedda49864ab0ad6738fe428c6ed54e
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Wed Apr 3 01:17:57 2024 +0200
+
+    chang1
+
+commit c2ea88f344a7c7f03273a94aef8244c98e11b03c
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Wed Apr 3 01:11:59 2024 +0200
+
+    Add starter code
+
+commit 8920c9b97d26b8a8612c4c0a4f8c88c239ee333f
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Tue Apr 2 23:51:37 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit c2d42827d086896c9a4d273832392d03ea4d98b3
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Tue Apr 2 23:36:49 2024 +0200
+
+    chang1
+
+commit 733f9d76e371088ba582834ea3211f077a24a9bd
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Tue Apr 2 23:27:34 2024 +0200
+
+    change
+
+commit 21e4f345e044070d6a949d928ec219b55984f09d
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Tue Apr 2 23:13:07 2024 +0200
+
+    Add starter code
+
+commit 98734873faae26ee83e39e98529f57b5d2393643
+Author: Simon <sgeorgiev888@gmail.com>
+Date:   Tue Apr 2 22:37:33 2024 +0200
+
+    Initial commit
